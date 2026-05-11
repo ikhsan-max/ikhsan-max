@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Ikhsan</h1>
 
 <p align="center">
-  <strong>PHP | JavaScript | SQL | TypeScript</strong>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&width=560&lines=Web+Developer;PHP+%7C+JavaScript+%7C+SQL+%7C+TypeScript;Building+clean+and+useful+apps;Learning+smart+contracts+and+better+systems" alt="Typing intro" />
 </p>
 
@@ -31,7 +27,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,mysql,postgres,ts,react,next,node,solidity,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=php,js,mysql,postgres,ts,laravel,react,next,node,solidity,git,github,vscode" alt="Tech stack icons" />
 </p>
 
 <p align="left">
