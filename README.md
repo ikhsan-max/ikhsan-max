@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ikhsan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=520&lines=Frontend+Developer;TypeScript+%7C+PHP+%7C+SQL;Smart+Contract+Learner;Building+clean+and+useful+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=520&lines=enthusiast+Developer;TypeScript+%7C+PHP+%7C+SQL;Learner;Building+clean+and+useful+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
